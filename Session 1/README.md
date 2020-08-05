@@ -1,1 +1,1 @@
-I have created an Uber Clone using OOP progtramming.
+I have created an Uber Clone using OOP programming.
